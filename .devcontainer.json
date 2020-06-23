@@ -1,0 +1,8 @@
+{
+  "remoteEnv":{
+     //"DOTNET_ROOT":"${containerWorkspaceFolder}/.dotnet",
+     //"DOTNET_MULTILEVEL_LOOKUP":0,
+     //"PATH":"$DOTNET_ROOT:$PATH",
+     "DUMMY":"DUMMY"
+  }
+}
